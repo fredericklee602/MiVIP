@@ -1,0 +1,10 @@
+{
+    "person": {
+        "height": 170,
+        "width": 60
+    },
+    "head": {
+        "height": 40,
+        "width": 20
+    }
+}
